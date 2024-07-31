@@ -83,7 +83,7 @@ Thank you for looking at my profile. Please get in touch with me if you're inter
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Uzairhassan14&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Uzairhassan14&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 <!--
