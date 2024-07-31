@@ -82,10 +82,6 @@ Thank you for looking at my profile. Please get in touch with me if you're inter
   <img src="https://github-profile-trophy.vercel.app/?username=Uzairhassan14&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Uzairhassan14&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
 <!--
 **Uzairhassan14/Uzairhassan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
