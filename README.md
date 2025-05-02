@@ -50,7 +50,7 @@ I am a software developer with over 2 years of experience in developing web appl
 
 #### Education
 
-FSC Pre-Engineering
+Bachelor of Business & Information Technology
 
 Courses: Certified Cloud Native Applied Generative AI Engineer.
 
