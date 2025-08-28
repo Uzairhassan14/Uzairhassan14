@@ -2,7 +2,7 @@
 
 ## I'm Uzair Hassan
 
-I am a software developer with over 2 years of experience in developing web applications. I am passionate about creating clean and efficient code that delivers a great user experience. I am always looking for new challenges and enjoy working with a team to find innovative solutions to complex problems.
+I am a software developer with over 3 years of experience in developing web applications. I am passionate about creating clean and efficient code that delivers a great user experience. I am always looking for new challenges and enjoy working with a team to find innovative solutions to complex problems.
 
 ### Skills
 
