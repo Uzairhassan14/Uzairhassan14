@@ -63,23 +63,9 @@ Thank you for looking at my profile. Please get in touch with me if you're inter
 - GitHub: [Uzairhassan14](https://github.com/Uzairhassan14)
 
 ## My Stats
-
-<p align="center"> 
-  <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/{Uzairhassan14}/count.svg" alt="Profile Visits" />
-</p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Uzairhassan14&theme=dark&background=000000" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uzairhassan14&show_icons=true&theme=merko" height="160em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairhassan14&layout=compact&theme=vision-friendly-dark" height="160em" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uzairhassan14&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <!--
