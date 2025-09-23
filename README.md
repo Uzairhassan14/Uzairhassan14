@@ -2,14 +2,8 @@
 
 💻 **Frontend Engineer | React.js / Next.js Developer | JavaScript & TypeScript Specialist**  
 
-I’m a passionate **Frontend Developer** with 3+ years of experience building **responsive, scalable, and high-performance web applications**.  
-
-- 💻 Specialize in **React, Next.js, Redux, Tailwind, and Bootstrap**  
-- 🎨 Skilled at turning **Figma designs into pixel-perfect, production-ready UIs**  
-- 🤖 Experience contributing to **AI-powered SaaS platforms, healthcare systems, and data-driven dashboards**  
-- 🚀 Focused on delivering **clean code, seamless UX, and performance optimization**  
-
-🌟 Always excited to work on projects where **design meets functionality** and bring innovative ideas to life.  
+I’m a passionate **Frontend Developer** with **3+ years of experience** building responsive, **scalable**, and **high-performance web applications**.  
+✨ I specialize in turning **Figma designs** into clean, **functional code** and delivering **pixel-perfect UI/UX** with modern frameworks.  
 
 ---
 
