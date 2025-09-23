@@ -44,13 +44,16 @@ I specialize in turning **Figma designs into clean, functional code** and delive
 
 ---
 
-## 📂 Featured Projects  
-- 🔹 **Unlock Data Nepal** – Built responsive data visualization & querying frontend (React + Redux Toolkit + Tailwind)  
-- 🔹 **WHO Labour Care Guide** – Developed healthcare application UI for maternal care workflows (React + Bootstrap)  
-- 🔹 **MISR System** – Designed intuitive frontend for health data management & systematic review system  (React + Redux Toolkit + Bootstrap) 
+## 📂 Featured Projects 
 - 🔹 **AI-Powered Dashboards** – Created custom, client-specific analytics dashboards with interactive charts  
+- 🔹 **Unlock Data Nepal** – Built responsive data visualization & querying frontend (React + Redux Toolkit + Tailwind)
 - 🔹 **AI Meal Planner** – Built SaaS frontend for personalized AI-driven meal planning (Next.js + Tailwind)  
-- 🔹 **Broker Ai** – Developed frontend for banking-focused SaaS enabling users to chat with PDF/CSV invoices (Next.js + Tailwind)  
+- 🔹 **Broker.ai** – Developed frontend for banking-focused SaaS enabling users to chat with PDF/CSV invoices (Next.js + Tailwind)
+- 🔹 **MISR System** – Designed intuitive frontend for health data management & systematic review system  
+- 🔹 **WHO Labour Care Guide** – Developed healthcare application UI for maternal care workflows (React + Bootstrap)  
+- 🔹 **VLIMS** – Developed Polio Lab Information Management System with role-based workflows (React + Redux + Bootstrap)  
+
+
 
 
 ---
