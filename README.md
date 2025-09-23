@@ -3,7 +3,13 @@
 💻 **Frontend Engineer | React.js / Next.js Developer | JavaScript & TypeScript Specialist**  
 
 I’m a passionate **Frontend Developer** with 3+ years of experience building **responsive, scalable, and high-performance web applications**.  
-I specialize in turning **Figma designs into clean, functional code** and delivering **pixel-perfect UI/UX** with modern frameworks.  
+
+- 💻 Specialize in **React, Next.js, Redux, Tailwind, and Bootstrap**  
+- 🎨 Skilled at turning **Figma designs into pixel-perfect, production-ready UIs**  
+- 🤖 Experience contributing to **AI-powered SaaS platforms, healthcare systems, and data-driven dashboards**  
+- 🚀 Focused on delivering **clean code, seamless UX, and performance optimization**  
+
+🌟 Always excited to work on projects where **design meets functionality** and bring innovative ideas to life.  
 
 ---
 
@@ -46,7 +52,7 @@ I specialize in turning **Figma designs into clean, functional code** and delive
 
 ## 📂 Featured Projects 
 - 🔹 **AI-Powered Dashboards** – Created custom, client-specific analytics dashboards with interactive charts  
-- 🔹 **Unlock Data Nepal** – Built responsive data visualization & querying frontend (React + Redux Toolkit + Tailwind)
+- 🔹 **Unlock Data Nepal** – AI-powered data visualization & querying platform with interactive dashboards (React + Redux Toolkit + Tailwind) 
 - 🔹 **AI Meal Planner** – Built SaaS frontend for personalized AI-driven meal planning (Next.js + Tailwind)  
 - 🔹 **Broker.ai** – Developed frontend for banking-focused SaaS enabling users to chat with PDF/CSV invoices (Next.js + Tailwind)
 - 🔹 **MISR System** – Designed intuitive frontend for health data management & systematic review system  
