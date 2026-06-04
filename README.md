@@ -67,12 +67,4 @@ I’m a passionate **Frontend Developer** with **3+ years of experience** buildi
 ## 📫 Connect With Me  
 - 📧 Email: [uzairhassan141947@gmail.com](mailto:uzairhassan141947@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/uzairhassan14](https://www.linkedin.com/in/uzairhassan14)  
-- 🖥️ GitHub: [github.com/Uzairhassan14](https://github.com/Uzairhassan14)  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzairhassan14&show_icons=true&theme=radical" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzairhassan14&layout=compact&theme=radical" height="160em" />
-</p>
+- 🖥️ GitHub: [github.com/Uzairhassan14](https://github.com/Uzairhassan14) 
